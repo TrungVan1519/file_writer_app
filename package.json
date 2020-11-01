@@ -1,0 +1,20 @@
+{
+  "name": "1-opening_app",
+  "version": "1.0.0",
+  "description": "Simple File Writer App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrungVan1519/file_writer_app.git"
+  },
+  "author": "dauXanh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^10.8.0",
+    "yargs": "^16.0.3"
+  }
+}
